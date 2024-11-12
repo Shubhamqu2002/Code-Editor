@@ -1,46 +1,48 @@
-# Getting Started with Create React App
+# Code Editor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+- [Project Description](#project-description)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Tech Stack](#tech-stack)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## Available Scripts
+## Project Description
+Code Editor is a powerful and responsive web-based code editor that supports multiple programming languages. It provides a user-friendly interface for writing, testing, and debugging code, making it an ideal tool for developers of all skill levels.
 
-In the project directory, you can run:
+## Features
+- **Multi-language Support**: Write code in JavaScript, Python, C++, and more.
+- **Real-time Output**: See the results of your code instantly in the console.
+- **Responsive Design**: Fully functional on both desktop and mobile devices.
+- **Customizable Themes**: Switch between light and dark modes.
+- **Code Highlighting**: Syntax highlighting for better readability.
+- **Version Control**: Easy integration with Git for version management.
 
-### `npm start`
+## Installation
+To get started with Code Editor, follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/code-editor.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd code-editor
+   ```
+3. Install the required dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Usage
+Once the server is running, open your browser and navigate to `http://localhost:3000`. You can start coding right away! 
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Example Code
