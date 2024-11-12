@@ -86,8 +86,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or feedback, feel free to reach out:
 
 - **Shubham Sinha** - [sinhashubham923@gmail.com](mailto:sinhashubham923@gmail.com)
-- [GitHub Profile](https://github.com/yourusername)
-- [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- [GitHub Profile](https://github.com/Shubhamqu2002)
+- [LinkedIn Profile](https://www.linkedin.com/in/shubham-sinha-bb360a207/)
 
 ---
 
