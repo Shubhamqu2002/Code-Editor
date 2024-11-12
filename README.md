@@ -52,8 +52,8 @@ console.log("Hello, World!");
 
 ## 🖼️ Screenshots
 
-     ![Screenshot 2024-11-12 005239](https://github.com/user-attachments/assets/90770797-475b-48bc-9481-e8a3c6646777)
-     ![Screenshot 2024-11-12 005321](https://github.com/user-attachments/assets/17bafcc0-83a3-4d7a-abfc-b51b4f4fb765)
+![Screenshot 2024-11-12 005239](https://github.com/user-attachments/assets/90770797-475b-48bc-9481-e8a3c6646777)
+![Screenshot 2024-11-12 005321](https://github.com/user-attachments/assets/17bafcc0-83a3-4d7a-abfc-b51b4f4fb765)
 
 ## 🛠️ Tech Stack
 - **Frontend**: 
